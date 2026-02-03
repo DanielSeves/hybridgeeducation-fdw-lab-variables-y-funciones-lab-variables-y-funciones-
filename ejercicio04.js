@@ -3,6 +3,10 @@
 
 // Escribe tu función aquí. El nombre exacto debe ser saludar
 
+function saludar(nombre) {
+    return `Hola, ${nombre}!`;
+}
+
 // Exporta la función para que pueda ser utilizada en las pruebas
 module.exports = {
     saludar

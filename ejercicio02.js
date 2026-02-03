@@ -3,6 +3,11 @@
 
 //define tu función aquí
 
+function obtenerPI () {
+    const valorPI = 3.1416
+    return valorPI
+}
+
 
 // No modificar
 // Exporta la función para que pueda ser utilizada en otros archivos
